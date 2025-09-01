@@ -1,5 +1,4 @@
-# Siemens_NX_part_samples
-A Collection of Siemens NX Student Edition sample part files (.prt), drawings, and assemblies for practice and learning
+
 # Siemens NX Sample Models
 
 This repository is a **collection of Siemens NX Student Edition models** that I create and share for practice and learning.  
