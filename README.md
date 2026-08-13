@@ -18,4 +18,10 @@ As I continue designing in Siemens NX, I will keep adding more models here.
 ##  How to Use
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/AbhishekDubasi09/siemens-nx-samples.git
+   git clone https://github.com/AbhishekDubasi09/Siemens_NX_part_samples.git
+   ```
+2. Open the `.prt` files in **Siemens NX** (Student Edition or higher).
+
+## License
+
+Licensed under the [MIT License](LICENSE).
