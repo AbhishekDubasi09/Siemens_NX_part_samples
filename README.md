@@ -11,6 +11,19 @@ It includes various part files (`.prt`), drawings (`_dwg1.prt`), and assemblies.
 - Drawing files (`*_dwg1.prt`)
 - Assembly files (`*_assembly*.prt`)
 
+## Current models
+
+Drill press table lock, in `NX_Models/`:
+
+- `table.prt`
+- `table_lock_lever.prt`
+- `table_lock_lever_pin.prt`
+- `table_lock_screw.prt`
+- `column_support_dwg1.prt` (drawing)
+- `Drill Press Table Lock_dwg1.prt` (drawing)
+
+More files are in `NX_Models/CADFiles` and `DrillPress/Samples`.
+
 As I continue designing in Siemens NX, I will keep adding more models here.
 
 ---
